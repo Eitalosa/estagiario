@@ -1,0 +1,2 @@
+# estagiario
+Companheiros de IA.
