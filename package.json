@@ -1,0 +1,15 @@
+{
+  "name": "estagiario-chat",
+  "version": "1.0.0",
+  "description": "Simple local chat UI communicating with ChatGPT API",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js",
+    "test": "node --test"
+  },
+  "dependencies": {
+    "express": "^4.18.2",
+    "openai": "^3.2.1",
+    "dotenv": "^16.0.3"
+  }
+}
